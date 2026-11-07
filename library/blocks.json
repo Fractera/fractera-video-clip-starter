@@ -1,0 +1,1404 @@
+{
+ "schema": "block-index/1",
+ "source": "LGTM reference (screen recordings aligned to the master track)",
+ "blocks": [
+  {
+   "id": "01-chat",
+   "num": 1,
+   "part": 1,
+   "t0": 11.06,
+   "t1": 17.06,
+   "clip_window": [
+    11.06,
+    18.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Чат-сообщение",
+   "what": "Лента рабочего чата мелко; главное сообщение крупным гротеском печатается по словам, ключевые зелёные; снизу реакции-чипы с растущими счётчиками",
+   "adaptation": "Сообщение руководителя о «переходе на AI» в нашем чате-HUD",
+   "folder": "raw",
+   "path": "library/raw/01-chat/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "02-logo-from-code",
+   "num": 2,
+   "part": 1,
+   "t0": 17.06,
+   "t1": 22.06,
+   "clip_window": [
+    16.06,
+    23.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Логотип из кода",
+   "what": "Пол из строк кода в перспективе; буквы собираются из горизонтальных полос кода, рассыпаются и складываются; под каждой буквой serif-слово",
+   "adaptation": "FRACTERA из строк кода + наша глосса",
+   "folder": "raw",
+   "path": "library/raw/02-logo-from-code/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "03-review-metrics",
+   "num": 3,
+   "part": 1,
+   "t0": 22.06,
+   "t1": 26.06,
+   "clip_window": [
+    21.06,
+    27.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Метрики ревью",
+   "what": "Логотип уходит вдаль на сетку-пол; сверху таблица метрик с бегущими числами, нули зелёные; сканлайн",
+   "adaptation": "Метрики агента: одобрено много, прочитано 0",
+   "folder": "raw",
+   "path": "library/raw/03-review-metrics/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "04-exploded-bot",
+   "num": 4,
+   "part": 1,
+   "t0": 26.06,
+   "t1": 31.06,
+   "clip_window": [
+    25.06,
+    32.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Взорванная схема бота",
+   "what": "Бот разнесён на части, сноски с буквами и ироничными примечаниями, сборка",
+   "adaptation": "Уже есть: наше интро S01 (пробный рендер)",
+   "folder": "raw",
+   "path": "library/raw/04-exploded-bot/",
+   "status": "passport",
+   "variant_of": null,
+   "built": "engine/ (пробный рендер S01: сборка фигурки из частей) — первая версия адаптации"
+  },
+  {
+   "id": "05-dictionary-card",
+   "num": 5,
+   "part": 1,
+   "t0": 31.06,
+   "t1": 34.06,
+   "clip_window": [
+    30.06,
+    35.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Словарная статья",
+   "what": "Собранный бот слева, справа serif-заголовок, определение и таблица характеристик строка за строкой",
+   "adaptation": "«agent, n.» — определение агента в нашем мире",
+   "folder": "raw",
+   "path": "library/raw/05-dictionary-card/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "06-keynote",
+   "num": 6,
+   "part": 1,
+   "t0": 34.06,
+   "t1": 42.06,
+   "clip_window": [
+    33.06,
+    43.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Сцена-кейноут",
+   "what": "Огромный экран над залом силуэтов; на экране капсом по 1–3 слова, контурные пиктограммы",
+   "adaptation": "Конференция, где обещают, что агенты заменят команды",
+   "folder": "raw",
+   "path": "library/raw/06-keynote/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "07-one-word-slide",
+   "num": 7,
+   "part": 1,
+   "t0": 42.06,
+   "t1": 43.06,
+   "clip_window": [
+    41.06,
+    44.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Слайд из одного слова",
+   "what": "Светлый пустой слайд, одно зелёное слово в углу",
+   "adaptation": "Пауза-акцент перед сменой режима",
+   "folder": "raw",
+   "path": "library/raw/07-one-word-slide/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "08-signs-in-hands",
+   "num": 8,
+   "part": 1,
+   "t0": 43.06,
+   "t1": 45.06,
+   "clip_window": [
+    42.06,
+    46.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Таблички в руках",
+   "what": "Ряд рук с табличками-буквами; слово меняется переворотом табличек и сменой цвета",
+   "adaptation": "Таблички F-R-A-C-T-E-R-A (в позитивном моменте)",
+   "folder": "raw",
+   "path": "library/raw/08-signs-in-hands/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "09-slogan-slam",
+   "num": 9,
+   "part": 1,
+   "t0": 45.06,
+   "t1": 46.06,
+   "clip_window": [
+    44.06,
+    47.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Удар лозунга",
+   "what": "Огромные буквы влетают по одной, последняя — с заносом из-за края",
+   "adaptation": "Корпоративные лозунги",
+   "folder": "raw",
+   "path": "library/raw/09-slogan-slam/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "10-priority-list",
+   "num": 10,
+   "part": 1,
+   "t0": 46.06,
+   "t1": 50.06,
+   "clip_window": [
+    45.06,
+    51.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Список приоритетов",
+   "what": "Нумерованный список; один пункт вставляется высоко с маркером, затем съезжает в самый конец",
+   "adaptation": "«Архитектура» сползает в конец списка приоритетов",
+   "folder": "raw",
+   "path": "library/raw/10-priority-list/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "11-org-chart",
+   "num": 11,
+   "part": 1,
+   "t0": 50.06,
+   "t1": 54.06,
+   "clip_window": [
+    49.06,
+    55.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Оргструктура",
+   "what": "Дерево команды; слово в кавычках сжимается рамкой трансформации; карточки людей пустеют, на их место встают боты",
+   "adaptation": "Команду заменяют коралловые агенты",
+   "folder": "raw",
+   "path": "library/raw/11-org-chart/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "12-gantt",
+   "num": 12,
+   "part": 1,
+   "t0": 54.06,
+   "t1": 58.06,
+   "clip_window": [
+    53.06,
+    59.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Диаграмма Ганта",
+   "what": "Лавандовые бары, одна зелёная полоса на весь год, красная линия дедлайна с ярлыком, счётчик дней",
+   "adaptation": "Дорожная карта из наших фич-кирпичиков",
+   "folder": "raw",
+   "path": "library/raw/12-gantt/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "13-access-request",
+   "num": 13,
+   "part": 1,
+   "t0": 58.06,
+   "t1": 62.06,
+   "clip_window": [
+    57.06,
+    63.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Запрос доступа",
+   "what": "Диалог прав с тумблерами: тумблеры щёлкают зелёным вниз по списку, прилетает ключ, кнопка GRANTED; слева маленький бот",
+   "adaptation": "Агенту дают доступ ко всему",
+   "folder": "raw",
+   "path": "library/raw/13-access-request/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "14-crt-terminal",
+   "num": 14,
+   "part": 1,
+   "t0": 62.06,
+   "t1": 65.06,
+   "clip_window": [
+    61.06,
+    66.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "CRT-терминал",
+   "what": "Бежевый ретро-монитор со стикером; на экране строка входа и печать моно; заход из зелёной точки на экране",
+   "adaptation": "Руководитель давно не писал код",
+   "folder": "raw",
+   "path": "library/raw/14-crt-terminal/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "15-system-prompt-wall",
+   "num": 15,
+   "part": 1,
+   "t0": 65.06,
+   "t1": 70.06,
+   "clip_window": [
+    64.06,
+    71.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Стена системного промпта",
+   "what": "Сотни нумерованных правил мелким моно; поле ввода, в которое печатается ещё одно правило; буквы накладываются глитчем",
+   "adaptation": "Наш промпт-файл и «магическое» правило капсом",
+   "folder": "raw",
+   "path": "library/raw/15-system-prompt-wall/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "16-bot-reply-done",
+   "num": 16,
+   "part": 1,
+   "t0": 70.06,
+   "t1": 74.06,
+   "clip_window": [
+    69.06,
+    75.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Ответ бота",
+   "what": "Пузырь «…», карточка Done!✓, справа нарастает список тестов с галочками; слово-разоблачение dot-matrix",
+   "adaptation": "Агент рапортует, тесты — заглушки",
+   "folder": "raw",
+   "path": "library/raw/16-bot-reply-done/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "17-text-on-chart",
+   "num": 17,
+   "part": 1,
+   "t0": 74.06,
+   "t1": 78.06,
+   "clip_window": [
+    73.06,
+    79.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Текст по графику",
+   "what": "Светлый слайд-график; слова лежат вдоль кривой, одно слово вертикально вдоль оси; камера едет вдоль взлёта к зелёному флажку",
+   "adaptation": "Метрики «вверх и вправо»",
+   "folder": "raw",
+   "path": "library/raw/17-text-on-chart/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "18-black-box-code",
+   "num": 18,
+   "part": 1,
+   "t0": 78.06,
+   "t1": 84.06,
+   "clip_window": [
+    77.06,
+    85.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Чёрный ящик кода",
+   "what": "Каркасная коробка с открытыми клапанами, внутри зелёное свечение; слева сноски-входы, справа выходы (красные инциденты, ???); подпись с числом строк",
+   "adaptation": "Ключевой мотив: у нас архитектура раскрывает ящик",
+   "folder": "raw",
+   "path": "library/raw/18-black-box-code/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "19-pr-letter-tiles",
+   "num": 19,
+   "part": 1,
+   "t0": 84.06,
+   "t1": 88.06,
+   "clip_window": [
+    83.06,
+    89.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Логотип-печати в PR",
+   "what": "Карточка pull request; буквы — зелёные штампованные плитки, падают по одной с ударом; снизу слова строки",
+   "adaptation": "FRACTERA плитками",
+   "folder": "raw",
+   "path": "library/raw/19-pr-letter-tiles/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "20-code-wall-counter",
+   "num": 20,
+   "part": 1,
+   "t0": 88.06,
+   "t1": 91.06,
+   "clip_window": [
+    87.06,
+    92.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Стена кода и счётчик",
+   "what": "Весь экран — код, огромный счётчик строк растёт, строка песни поверх",
+   "adaptation": "Рост кодовой базы",
+   "folder": "raw",
+   "path": "library/raw/20-code-wall-counter/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "21-stamp-stopwatch",
+   "num": 21,
+   "part": 1,
+   "t0": 91.06,
+   "t1": 94.06,
+   "clip_window": [
+    90.06,
+    95.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Штамп и секундомер",
+   "what": "Кнопка отправки ревью, удар штампа APPROVED, секундомер; слова идут по дуге циферблата",
+   "adaptation": "Одобрено за секунды",
+   "folder": "raw",
+   "path": "library/raw/21-stamp-stopwatch/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "22-dot-matrix-word",
+   "num": 22,
+   "part": 1,
+   "t0": 94.06,
+   "t1": 95.06,
+   "clip_window": [
+    93.06,
+    96.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Dot-matrix слово",
+   "what": "Одно слово крупно пунктирным зелёным контуром на тёмном",
+   "adaptation": "Любое ироничное слово",
+   "folder": "raw",
+   "path": "library/raw/22-dot-matrix-word/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "23-light-dot-transition",
+   "num": 23,
+   "part": 1,
+   "t0": 95.06,
+   "t1": 96.06,
+   "clip_window": [
+    94.06,
+    97.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Точка света",
+   "what": "Сцена схлопывается в зелёную точку с сиянием, из неё раскрывается следующая",
+   "adaptation": "Универсальный переход (у нас можно синей точкой архитектуры)",
+   "folder": "raw",
+   "path": "library/raw/23-light-dot-transition/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "24-code-lyric-leet",
+   "num": 24,
+   "part": 1,
+   "t0": 96.06,
+   "t1": 100.06,
+   "clip_window": [
+    95.06,
+    101.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Код-лирика",
+   "what": "Слова песни набраны как код: операторы, скобки, цифры вместо букв, номера строк слева; ударное слово зелёное жирное",
+   "adaptation": "Строки нашей песни в виде кода",
+   "folder": "raw",
+   "path": "library/raw/24-code-lyric-leet/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "25-cargo-ship",
+   "num": 25,
+   "part": 1,
+   "t0": 100.06,
+   "t1": 104.06,
+   "clip_window": [
+    99.06,
+    105.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Грузовой корабль",
+   "what": "Контурный корабль, кран ставит контейнеры-буквы, на борту надпись; слово релиза вспыхивает крупно",
+   "adaptation": "Контейнеры F-R-A-C-T-E-R-A = деплой",
+   "folder": "raw",
+   "path": "library/raw/25-cargo-ship/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "26-wall-clock",
+   "num": 26,
+   "part": 1,
+   "t0": 104.06,
+   "t1": 105.06,
+   "clip_window": [
+    103.06,
+    106.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Настенные часы",
+   "what": "Круглые часы с днём недели на циферблате, стрелки к концу дня",
+   "adaptation": "Дедлайн в пятницу",
+   "folder": "raw",
+   "path": "library/raw/26-wall-clock/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "27-engraving-cloud",
+   "num": 27,
+   "part": 1,
+   "t0": 105.06,
+   "t1": 108.06,
+   "clip_window": [
+    104.06,
+    109.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Гравюра «облако»",
+   "what": "Облако штрихом, лента-баннер serif, расходящиеся лучи; слова падают дугой, последнее золотое",
+   "adaptation": "Ирония про «облако»",
+   "folder": "raw",
+   "path": "library/raw/27-engraving-cloud/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "28-stock-chart",
+   "num": 28,
+   "part": 1,
+   "t0": 108.06,
+   "t1": 112.06,
+   "clip_window": [
+    107.06,
+    113.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Биржевой график",
+   "what": "Тикер с процентом, свечной график взлетает, текст по линии; внизу ряд голов, затем ряд членов совета",
+   "adaptation": "Рост после релиза",
+   "folder": "raw",
+   "path": "library/raw/28-stock-chart/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "29-server-rack",
+   "num": 29,
+   "part": 1,
+   "t0": 112.06,
+   "t1": 118.06,
+   "clip_window": [
+    111.06,
+    119.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Серверная стойка",
+   "what": "Сетка юнитов; буквы логотипа загораются в разных ячейках, одна плашка MERGED",
+   "adaptation": "FRACTERA в стойке",
+   "folder": "raw",
+   "path": "library/raw/29-server-rack/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "30-bot-on-pedestal",
+   "num": 30,
+   "part": 1,
+   "t0": 118.06,
+   "t1": 127.06,
+   "clip_window": [
+    117.06,
+    128.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 3,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Бот на пьедестале",
+   "what": "Прожектор, пьедестал; пузырь с рапортом зачёркивается, вокруг множатся красные рукописные опровержения со стрелками; внизу индикаторы ошибок",
+   "adaptation": "Наш агент с флажком I'M OK — та же ирония",
+   "folder": "ready",
+   "path": "library/ready/30-bot-on-pedestal/",
+   "status": "blueprint",
+   "variant_of": null
+  },
+  {
+   "id": "31-catalog-card",
+   "num": 31,
+   "part": 1,
+   "t0": 127.06,
+   "t1": 135.06,
+   "clip_window": [
+    126.06,
+    136.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Каталожная карточка",
+   "what": "Библиотечная карточка над ящиками каталога; машинописный текст, красные правки, зачёркивания, обведённая дата",
+   "adaptation": "Выдуманная зависимость в проекте",
+   "folder": "raw",
+   "path": "library/raw/31-catalog-card/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "32-badge-lanyard",
+   "num": 32,
+   "part": 1,
+   "t0": 135.06,
+   "t1": 139.06,
+   "clip_window": [
+    134.06,
+    140.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Бейдж на ленте",
+   "what": "Пропуск сотрудника с портретом на зелёной ленте; лента обрезается, бейдж улетает",
+   "adaptation": "Увольнение человека",
+   "folder": "raw",
+   "path": "library/raw/32-badge-lanyard/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "33-word-tokens-coins",
+   "num": 33,
+   "part": 1,
+   "t0": 139.06,
+   "t1": 142.06,
+   "clip_window": [
+    138.06,
+    143.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Слова-плашки и монеты",
+   "what": "Каждое слово на своей цветной плашке с числом под ним (как токены); справа счётчик денег убывает, монеты сыплются в коробку API",
+   "adaptation": "Токены сжигают бюджет",
+   "folder": "raw",
+   "path": "library/raw/33-word-tokens-coins/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "34-code-caution-tape",
+   "num": 34,
+   "part": 1,
+   "t0": 142.06,
+   "t1": 145.06,
+   "clip_window": [
+    141.06,
+    146.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Код с лентами",
+   "what": "Файл кода с комментарием-запретом; поверх ложатся жёлтые сигнальные ленты с повторяющимися словами",
+   "adaptation": "Наследие, которое агент трогает",
+   "folder": "raw",
+   "path": "library/raw/34-code-caution-tape/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "35-receipt",
+   "num": 35,
+   "part": 1,
+   "t0": 145.06,
+   "t1": 147.06,
+   "clip_window": [
+    144.06,
+    148.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Чек",
+   "what": "Чек печатается строка за строкой, позиции двоятся, итог красный",
+   "adaptation": "Двойное списание",
+   "folder": "raw",
+   "path": "library/raw/35-receipt/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "36-bug-engraving",
+   "num": 36,
+   "part": 1,
+   "t0": 147.06,
+   "t1": 151.06,
+   "clip_window": [
+    146.06,
+    152.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Гравюрный жук",
+   "what": "Светлая «научная таблица»: гравюра жука с латинским именем, красный ярлык ошибки, штамп FIXED!",
+   "adaptation": "Баг, который возвращается",
+   "folder": "raw",
+   "path": "library/raw/36-bug-engraving/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "37-ticket-rules-fly",
+   "num": 37,
+   "part": 1,
+   "t0": 151.06,
+   "t1": 155.06,
+   "clip_window": [
+    150.06,
+    156.06
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Тикет и разлёт правил",
+   "what": "Карточка тикета с попыткой взлома через промпт; страницы правил вылетают из папки",
+   "adaptation": "Уязвимость агента без архитектуры",
+   "folder": "raw",
+   "path": "library/raw/37-ticket-rules-fly/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "38-reprise-box",
+   "num": 38,
+   "part": 1,
+   "t0": 155.06,
+   "t1": 161.01,
+   "clip_window": [
+    154.06,
+    161.01
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Реприза",
+   "what": "Светлый график с текстом по линии, затем чёрный ящик с трещиной и дымом",
+   "adaptation": "Финальная реприза припева",
+   "folder": "raw",
+   "path": "library/raw/38-reprise-box/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "39-red-clock-3am",
+   "num": 39,
+   "part": 2,
+   "t0": 202.22,
+   "t1": 205.22,
+   "clip_window": [
+    202.22,
+    206.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Красные часы 3:00",
+   "what": "Красный режим: огромные 7-сегментные цифры, рядом телефон, в который сыплются уведомления об аварии",
+   "adaptation": "Ночная авария после релиза",
+   "folder": "raw",
+   "path": "library/raw/39-red-clock-3am/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "40-db-cylinder-drop",
+   "num": 40,
+   "part": 2,
+   "t0": 205.22,
+   "t1": 208.22,
+   "clip_window": [
+    204.22,
+    209.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Цилиндр базы данных",
+   "what": "Каркасная стопка дисков, рядом маленький бот с ключом; красная строка команды удаления таблицы; слова ложатся на диски",
+   "adaptation": "Агент с правами на прод (наш кирпичик DATABASE)",
+   "folder": "raw",
+   "path": "library/raw/40-db-cylinder-drop/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "41-zoom-through-window",
+   "num": 41,
+   "part": 2,
+   "t0": 208.22,
+   "t1": 209.22,
+   "clip_window": [
+    207.22,
+    210.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Zoom-through окна",
+   "what": "Камера пролетает сквозь белое окно, крупное слово уезжает за кадр",
+   "adaptation": "Переход между сценами",
+   "folder": "raw",
+   "path": "library/raw/41-zoom-through-window/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "42-status-page",
+   "num": 42,
+   "part": 2,
+   "t0": 209.22,
+   "t1": 213.22,
+   "clip_window": [
+    208.22,
+    214.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Статус-страница",
+   "what": "Окно браузера: красная плашка сбоя, полосы аптайма; полосы перекрашиваются в зелёные, плашка меняется на «всё работает» с галочкой",
+   "adaptation": "Дашборд говорит «всё хорошо» во время пожара",
+   "folder": "raw",
+   "path": "library/raw/42-status-page/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "43-paper-tear-reveal",
+   "num": 43,
+   "part": 2,
+   "t0": 213.22,
+   "t1": 216.22,
+   "clip_window": [
+    212.22,
+    217.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Разрыв бумаги",
+   "what": "Страница рвётся, под ней тёмная витрина с утёкшими данными: файл, ярлык-цена, кнопка покупки; акцент красным, пароль точками",
+   "adaptation": "Последствия без архитектуры",
+   "folder": "raw",
+   "path": "library/raw/43-paper-tear-reveal/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "44-incident-chat-loop",
+   "num": 44,
+   "part": 2,
+   "t0": 216.22,
+   "t1": 224.22,
+   "clip_window": [
+    215.22,
+    225.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Инцидент-чат с петлёй",
+   "what": "Бот печатает бодрый ответ в пузыре, человек отвечает моно-строкой, бот правит пузырь и повторяет то же самое",
+   "adaptation": "Агент без контекста ходит по кругу",
+   "folder": "raw",
+   "path": "library/raw/44-incident-chat-loop/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "45-shattered-glass",
+   "num": 45,
+   "part": 2,
+   "t0": 224.22,
+   "t1": 225.22,
+   "clip_window": [
+    223.22,
+    226.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Разбитое стекло",
+   "what": "Экран трескается паутиной, поверх огромные белые и красные слова",
+   "adaptation": "Кульминация паники",
+   "folder": "raw",
+   "path": "library/raw/45-shattered-glass/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "46-vinyl-record",
+   "num": 46,
+   "part": 2,
+   "t0": 225.22,
+   "t1": 226.22,
+   "clip_window": [
+    224.22,
+    227.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Пластинка",
+   "what": "Вращающаяся пластинка: текст по кругу, логотип на яблоке, тонарм",
+   "adaptation": "«Заевшая пластинка» = повтор; яблоко FRACTERA",
+   "folder": "raw",
+   "path": "library/raw/46-vinyl-record/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "47-police-lineup",
+   "num": 47,
+   "part": 2,
+   "t0": 226.22,
+   "t1": 229.22,
+   "clip_window": [
+    225.22,
+    230.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Опознавательный ряд",
+   "what": "Светлый лист: фигуры у ростовой шкалы с табличками, синий штамп BLAMELESS, стрелка-указатель, имя виноватого краснеет",
+   "adaptation": "«Ищем виноватого»",
+   "folder": "raw",
+   "path": "library/raw/47-police-lineup/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "48-postmortem-form",
+   "num": 48,
+   "part": 2,
+   "t0": 229.22,
+   "t1": 233.22,
+   "clip_window": [
+    228.22,
+    234.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Форма разбора",
+   "what": "Поля формы: в первое печатается вывод, во втором чекбокс и серое автодополнение от бота",
+   "adaptation": "Пост-мортем без выводов",
+   "folder": "raw",
+   "path": "library/raw/48-postmortem-form/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "49-bar-compare",
+   "num": 49,
+   "part": 2,
+   "t0": 233.22,
+   "t1": 235.22,
+   "clip_window": [
+    232.22,
+    236.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Столбцы-сравнение",
+   "what": "Заштрихованный низкий столбец и лавандовый высокий с ценой, текст рядом",
+   "adaptation": "Стоимость токенов против человека",
+   "folder": "raw",
+   "path": "library/raw/49-bar-compare/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "50-bank-check",
+   "num": 50,
+   "part": 2,
+   "t0": 235.22,
+   "t1": 237.22,
+   "clip_window": [
+    234.22,
+    238.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Банковский чек",
+   "what": "Бланк чека: от руки пишется получатель, сумма в окошке прокручивается",
+   "adaptation": "Бонус руководству",
+   "folder": "raw",
+   "path": "library/raw/50-bank-check/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "51-evidence-board",
+   "num": 51,
+   "part": 2,
+   "t0": 237.22,
+   "t1": 250.22,
+   "clip_window": [
+    236.22,
+    251.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Доска улик",
+   "what": "Карточки-экспонаты на булавках, красная нить, серия красных штампов, рукописные записки; камера едет вдоль нити, в финале маркер обводит всё и фраза-вердикт ложится по диагонали",
+   "adaptation": "Хронология проигнорированных предупреждений",
+   "folder": "raw",
+   "path": "library/raw/51-evidence-board/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "52-bots-review-bots",
+   "num": 52,
+   "part": 2,
+   "t0": 250.22,
+   "t1": 254.22,
+   "clip_window": [
+    249.22,
+    255.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Боты ревьюят ботов",
+   "what": "Монитор, вокруг несколько ботов, на экране буквы-плитки; камера отъезжает, ботов становится больше",
+   "adaptation": "Агенты проверяют агентов",
+   "folder": "raw",
+   "path": "library/raw/52-bots-review-bots/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "53-paper-dolls-cut",
+   "num": 53,
+   "part": 2,
+   "t0": 254.22,
+   "t1": 260.22,
+   "clip_window": [
+    253.22,
+    261.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Бумажные человечки",
+   "what": "Стена кода и огромный счётчик; цепочка вырезанных человечков, ножницы режут, фигуры превращаются в пунктир",
+   "adaptation": "Людей убирают из процесса",
+   "folder": "raw",
+   "path": "library/raw/53-paper-dolls-cut/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "54-particle-text",
+   "num": 54,
+   "part": 2,
+   "t0": 260.22,
+   "t1": 274.22,
+   "clip_window": [
+    259.22,
+    275.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Текст из частиц",
+   "what": "Слово собирается из летящих зелёных частиц, затем вторая строка",
+   "adaptation": "Проверки «зелёные»",
+   "folder": "raw",
+   "path": "library/raw/54-particle-text/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "55-board-of-bots-variation",
+   "num": 55,
+   "part": 2,
+   "t0": 274.22,
+   "t1": 277.22,
+   "clip_window": [
+    273.22,
+    278.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Совет из ботов (вариация 28)",
+   "what": "Повтор биржевого блока, но в ряду совета теперь сидят боты",
+   "adaptation": "Образец вариации припева",
+   "folder": "raw",
+   "path": "library/raw/55-board-of-bots-variation/",
+   "status": "passport",
+   "variant_of": "28-stock-chart"
+  },
+  {
+   "id": "56-bot-in-rack-variation",
+   "num": 56,
+   "part": 2,
+   "t0": 277.22,
+   "t1": 284.22,
+   "clip_window": [
+    276.22,
+    285.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Бот в стойке (вариация 29)",
+   "what": "Повтор серверной стойки, в ячейке сидит маленький бот",
+   "adaptation": "Вариация припева",
+   "folder": "raw",
+   "path": "library/raw/56-bot-in-rack-variation/",
+   "status": "passport",
+   "variant_of": "29-server-rack"
+  },
+  {
+   "id": "57-credits-as-pr",
+   "num": 57,
+   "part": 2,
+   "t0": 284.22,
+   "t1": 291.22,
+   "clip_window": [
+    283.22,
+    292.22
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Титры-PR",
+   "what": "Титры как pull request: строки «анимация / песня / ревьюер» с зелёными одобрениями, справа бежит лог ревью, счётчик одобрений, кнопка merge → «merged», буквы растворяются в сканлайн",
+   "adaptation": "Наши титры как PR в репозиторий FRACTERA",
+   "folder": "raw",
+   "path": "library/raw/57-credits-as-pr/",
+   "status": "passport",
+   "variant_of": null
+  },
+  {
+   "id": "58-bookend-chat",
+   "num": 58,
+   "part": 2,
+   "t0": 291.22,
+   "t1": 302.74,
+   "clip_window": [
+    290.22,
+    302.74
+   ],
+   "files": {
+    "clip": "clip.mp4",
+    "passport": "passport.jpg"
+   },
+   "level": 1,
+   "note": "время в секундах мастер-трека; границы блока ±1 с (по листам 1 кадр/с)",
+   "name": "Кольцо-финал",
+   "what": "Возврат к первому чату: руководитель печатает новое сообщение-панчлайн, слова снова зеленеют",
+   "adaptation": "Замкнуть клип финальной шуткой",
+   "folder": "raw",
+   "path": "library/raw/58-bookend-chat/",
+   "status": "passport",
+   "variant_of": null
+  }
+ ],
+ "statuses": {
+  "passport": "уровень 1: клип + кадр + строка",
+  "card": "уровень 2: card.json",
+  "blueprint": "уровень 3: blueprint.md"
+ }
+}

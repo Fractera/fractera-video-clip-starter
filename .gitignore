@@ -1,0 +1,19 @@
+# зависимости и кэш
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# тяжёлое и воспроизводимое: модель отделения голоса, стемы, рабочие файлы
+models/
+work/
+*.onnx
+*.wav
+
+# временные файлы движка (готовые ролики в engine/out/ хранятся)
+engine/frames/
+engine/out/part*.mp4
+engine/out/list.txt
+engine/out/*.tmp.mp4
+engine/out/test01_video.mp4
+engine/out/test01.mp4

@@ -1,0 +1,235 @@
+{
+ "n_cuts": 32,
+ "on_beat_70ms": 7,
+ "on_eighth_70ms": 12,
+ "on_downbeat": 2,
+ "chance_on_beat": 0.278,
+ "tracked_ibi_first76s_median": 0.4992290249433111,
+ "tracked_bpm_first76s": 120.19,
+ "cuts": [
+  {
+   "t": 17.094,
+   "score": 20.619,
+   "to_beat_ms": 39,
+   "on_downbeat": false,
+   "to_eighth_ms": 39
+  },
+  {
+   "t": 18.161,
+   "score": 8.103,
+   "to_beat_ms": 96,
+   "on_downbeat": false,
+   "to_eighth_ms": 96
+  },
+  {
+   "t": 19.594,
+   "score": 16.287,
+   "to_beat_ms": 32,
+   "on_downbeat": true,
+   "to_eighth_ms": 32
+  },
+  {
+   "t": 33.761,
+   "score": 10.186,
+   "to_beat_ms": 34,
+   "on_downbeat": true,
+   "to_eighth_ms": 34
+  },
+  {
+   "t": 34.061,
+   "score": 9.234,
+   "to_beat_ms": -165,
+   "on_downbeat": false,
+   "to_eighth_ms": 84
+  },
+  {
+   "t": 42.428,
+   "score": 40.244,
+   "to_beat_ms": 144,
+   "on_downbeat": false,
+   "to_eighth_ms": -105
+  },
+  {
+   "t": 58.461,
+   "score": 13.765,
+   "to_beat_ms": 86,
+   "on_downbeat": false,
+   "to_eighth_ms": 86
+  },
+  {
+   "t": 74.161,
+   "score": 23.69,
+   "to_beat_ms": 171,
+   "on_downbeat": true,
+   "to_eighth_ms": -85
+  },
+  {
+   "t": 77.894,
+   "score": 17.608,
+   "to_beat_ms": -133,
+   "on_downbeat": false,
+   "to_eighth_ms": 117
+  },
+  {
+   "t": 109.661,
+   "score": 8.955,
+   "to_beat_ms": 134,
+   "on_downbeat": true,
+   "to_eighth_ms": -116
+  },
+  {
+   "t": 126.928,
+   "score": 8.052,
+   "to_beat_ms": -99,
+   "on_downbeat": false,
+   "to_eighth_ms": -99
+  },
+  {
+   "t": 134.928,
+   "score": 24.82,
+   "to_beat_ms": -99,
+   "on_downbeat": false,
+   "to_eighth_ms": -99
+  },
+  {
+   "t": 142.228,
+   "score": 18.345,
+   "to_beat_ms": 201,
+   "on_downbeat": false,
+   "to_eighth_ms": -49
+  },
+  {
+   "t": 144.861,
+   "score": 11.858,
+   "to_beat_ms": -166,
+   "on_downbeat": false,
+   "to_eighth_ms": 84
+  },
+  {
+   "t": 147.161,
+   "score": 18.61,
+   "to_beat_ms": 134,
+   "on_downbeat": false,
+   "to_eighth_ms": -116
+  },
+  {
+   "t": 151.228,
+   "score": 16.148,
+   "to_beat_ms": 201,
+   "on_downbeat": false,
+   "to_eighth_ms": -49
+  },
+  {
+   "t": 155.328,
+   "score": 10.854,
+   "to_beat_ms": -199,
+   "on_downbeat": true,
+   "to_eighth_ms": 51
+  },
+  {
+   "t": 156.994,
+   "score": 30.2,
+   "to_beat_ms": -33,
+   "on_downbeat": false,
+   "to_eighth_ms": -33
+  },
+  {
+   "t": 208.716,
+   "score": 10.916,
+   "to_beat_ms": 189,
+   "on_downbeat": false,
+   "to_eighth_ms": -61
+  },
+  {
+   "t": 213.416,
+   "score": 8.727,
+   "to_beat_ms": -111,
+   "on_downbeat": true,
+   "to_eighth_ms": -111
+  },
+  {
+   "t": 213.683,
+   "score": 9.281,
+   "to_beat_ms": 155,
+   "on_downbeat": true,
+   "to_eighth_ms": -95
+  },
+  {
+   "t": 220.083,
+   "score": 13.076,
+   "to_beat_ms": 55,
+   "on_downbeat": false,
+   "to_eighth_ms": 55
+  },
+  {
+   "t": 221.216,
+   "score": 21.532,
+   "to_beat_ms": 189,
+   "on_downbeat": false,
+   "to_eighth_ms": -61
+  },
+  {
+   "t": 224.083,
+   "score": 24.806,
+   "to_beat_ms": 55,
+   "on_downbeat": false,
+   "to_eighth_ms": 55
+  },
+  {
+   "t": 225.416,
+   "score": 9.346,
+   "to_beat_ms": -111,
+   "on_downbeat": true,
+   "to_eighth_ms": -111
+  },
+  {
+   "t": 225.916,
+   "score": 18.629,
+   "to_beat_ms": -111,
+   "on_downbeat": false,
+   "to_eighth_ms": -111
+  },
+  {
+   "t": 249.883,
+   "score": 35.239,
+   "to_beat_ms": -145,
+   "on_downbeat": false,
+   "to_eighth_ms": 105
+  },
+  {
+   "t": 255.649,
+   "score": 8.511,
+   "to_beat_ms": 122,
+   "on_downbeat": true,
+   "to_eighth_ms": 122
+  },
+  {
+   "t": 257.983,
+   "score": 8.364,
+   "to_beat_ms": -45,
+   "on_downbeat": false,
+   "to_eighth_ms": -45
+  },
+  {
+   "t": 269.949,
+   "score": 8.092,
+   "to_beat_ms": -78,
+   "on_downbeat": false,
+   "to_eighth_ms": -78
+  },
+  {
+   "t": 275.949,
+   "score": 9.347,
+   "to_beat_ms": -78,
+   "on_downbeat": false,
+   "to_eighth_ms": -78
+  },
+  {
+   "t": 301.116,
+   "score": 8.552,
+   "to_beat_ms": 89,
+   "on_downbeat": false,
+   "to_eighth_ms": 89
+  }
+ ]
+}

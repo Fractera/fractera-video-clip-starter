@@ -1,0 +1,29 @@
+{
+ "track_seconds": 305.0637641723356,
+ "recordings": [
+  {
+   "file": "/home/claude/ref1/src.mp4",
+   "rec_seconds": 149.954,
+   "offset_seconds": 11.061,
+   "coarse_offset_seconds": 11.064,
+   "envelope_corr": 0.636,
+   "peak_vs_50th": 2.44,
+   "covers_track": [
+    11.06,
+    161.02
+   ]
+  },
+  {
+   "file": "/home/claude/ref2/src.mp4",
+   "rec_seconds": 100.519,
+   "offset_seconds": 202.216,
+   "coarse_offset_seconds": 202.211,
+   "envelope_corr": 0.551,
+   "peak_vs_50th": 1.94,
+   "covers_track": [
+    202.22,
+    302.73
+   ]
+  }
+ ]
+}

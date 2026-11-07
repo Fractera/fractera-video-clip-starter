@@ -1,0 +1,4 @@
+[1:v]scale=640:404,fps=15,setpts=PTS-STARTPTS+11.061/TB[p1];
+[2:v]scale=640:404,fps=15,setpts=PTS-STARTPTS+202.216/TB[p2];
+[0:v][p1]overlay=eof_action=pass[b1];
+[b1][p2]overlay=eof_action=pass,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='нет записи — только звук':x=(w-tw)/2:y=(h-th)/2:fontsize=22:fontcolor=white@0.7:enable='lt(t,11.06)+between(t,161.02,202.22)+gt(t,302.73)',drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf:text='%{pts\:hms}':x=8:y=8:fontsize=13:fontcolor=white@0.85:box=1:boxcolor=black@0.5[v]
